@@ -1,7 +1,6 @@
 Example Voting App
 =========
-
-A simple distributed application running across multiple Docker containers.
+This code is from [KodeKloudHub's Example Voting App](https://github.com/kodekloudhub/example-voting-app), a simple distributed application running across multiple Docker containers.
 
 Getting started
 ---------------
